@@ -1,0 +1,8 @@
+*.o
+*.a
+.cproject
+.settings
+.project
+*.swp
+*.swo
+stm32flash
